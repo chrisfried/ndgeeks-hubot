@@ -5,6 +5,8 @@
   "author": "Chris Fried <fried.chris@gmail.com>",
   "description": "A simple helpful robot for #ndgeeks",
   "dependencies": {
+    "underscore": "~1.7.0",
+    "clark": "0.0.6",
     "hubot-maps": "0.0.0",
     "hubot-help": "~0.1.1",
     "hubot-google-images": "~0.1.1",
